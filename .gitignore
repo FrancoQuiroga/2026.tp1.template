@@ -25,3 +25,5 @@ replay_pid*
 
 #carpeta de intellij
 .idea
+#Carpeta de salida de los errores
+.out
