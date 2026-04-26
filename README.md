@@ -6,10 +6,10 @@
 ### Datos del Alumno
 
 | Campo | Respuesta |
-| :--- | :--- |
-| **Nombre** | |
-| **Apellido** | |
-| **Legajo** | |
+| :--- |:----------|
+| **Nombre** | Franco    |
+| **Apellido** | Quiroga   |
+| **Legajo** | 62244      |
 
 > **Fecha de entrega:** 28 de Abril de 2026
 
